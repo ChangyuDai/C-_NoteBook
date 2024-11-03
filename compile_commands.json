@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dcy/code/C++_learning",
+  "command": "/usr/bin/c++      -o CMakeFiles/C++_Learning.dir/src/inline.cpp.o -c /home/dcy/code/C++_learning/src/inline.cpp",
+  "file": "/home/dcy/code/C++_learning/src/inline.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning",
+  "command": "/usr/bin/c++      -o CMakeFiles/C++_Learning.dir/src/main.cpp.o -c /home/dcy/code/C++_learning/src/main.cpp",
+  "file": "/home/dcy/code/C++_learning/src/main.cpp"
+}
+]

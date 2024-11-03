@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g   CMakeFiles/C++_Learning.dir/src/firsttref.cpp.o CMakeFiles/C++_Learning.dir/src/inline.cpp.o CMakeFiles/C++_Learning.dir/src/strquote.cpp.o  -o C++_Learning 

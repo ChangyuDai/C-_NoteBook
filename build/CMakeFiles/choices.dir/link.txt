@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g   CMakeFiles/choices.dir/src/choices.cpp.o  -o choices 

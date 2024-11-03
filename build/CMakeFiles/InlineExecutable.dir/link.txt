@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g   CMakeFiles/InlineExecutable.dir/src/inline.cpp.o  -o InlineExecutable 

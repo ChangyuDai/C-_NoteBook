@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/firsttref.dir/src/firsttref.cpp.o -c /home/dcy/code/C++_learning/src/firsttref.cpp",
+  "file": "/home/dcy/code/C++_learning/src/firsttref.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/FirsttrefExecutable.dir/src/firsttref.cpp.o -c /home/dcy/code/C++_learning/src/firsttref.cpp",
+  "file": "/home/dcy/code/C++_learning/src/firsttref.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/InlineExecutable.dir/src/inline.cpp.o -c /home/dcy/code/C++_learning/src/inline.cpp",
+  "file": "/home/dcy/code/C++_learning/src/inline.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/StrquoteExecutable.dir/src/strquote.cpp.o -c /home/dcy/code/C++_learning/src/strquote.cpp",
+  "file": "/home/dcy/code/C++_learning/src/strquote.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/strquote.dir/src/strquote.cpp.o -c /home/dcy/code/C++_learning/src/strquote.cpp",
+  "file": "/home/dcy/code/C++_learning/src/strquote.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/inline.dir/src/inline.cpp.o -c /home/dcy/code/C++_learning/src/inline.cpp",
+  "file": "/home/dcy/code/C++_learning/src/inline.cpp"
+},
+{
+  "directory": "/home/dcy/code/C++_learning/build",
+  "command": "/usr/bin/clang++-10    -g   -o CMakeFiles/choices.dir/src/choices.cpp.o -c /home/dcy/code/C++_learning/src/choices.cpp",
+  "file": "/home/dcy/code/C++_learning/src/choices.cpp"
+}
+]

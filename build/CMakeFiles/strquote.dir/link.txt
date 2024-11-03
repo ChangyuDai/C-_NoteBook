@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g   CMakeFiles/strquote.dir/src/strquote.cpp.o  -o strquote 

@@ -1,0 +1,1 @@
+/usr/bin/clang++-10  -g   CMakeFiles/FirsttrefExecutable.dir/src/firsttref.cpp.o  -o FirsttrefExecutable 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dcy/code/C++_learning/src/firsttref.cpp
+iostream
+-
+
+/home/dcy/code/C++_learning/src/inline.cpp
+iostream
+-
+
+/home/dcy/code/C++_learning/src/strquote.cpp
+iostream
+-
+ostream
+-
+string
+-
+
